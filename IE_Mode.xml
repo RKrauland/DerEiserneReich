@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site-list version="1">
+    <created-by>
+        <tool>IE Mode Configuration Tool</tool>
+        <version>1.0-DER</version>
+        <date-created>10/15/2025</date-created>
+        <build>1.0.52414B.DerEiserneReich</build>
+    </created-by>
+    <!-- Add your sites below using this format: -->
+    <!-- 
+    <site url="example.com">
+        <open-in>IE11</open-in>
+    </site>
+    -->
+    
+    <!-- Example entries (replace with your actual sites): -->
+    <site url="intranet.company.com">
+        <open-in>IE11</open-in>
+    </site>
+    <site url="legacy-app.company.com">
+        <open-in>IE11</open-in>
+    </site>
+    <site url="192.168.1.100">
+        <open-in>IE11</open-in>
+    </site>
+</site-list>
