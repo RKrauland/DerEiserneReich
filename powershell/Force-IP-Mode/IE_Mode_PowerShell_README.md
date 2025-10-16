@@ -1,29 +1,30 @@
-              ★            ◆            ★            ◆            ★
-             ╱ ╲           ╱ ╲          ╱ ╲          ╱ ╲           ╱ ╲
-            ║ Fe ║       ║ ◈ ║       ║ Fe ║       ║ ◈  ║       ║ Fe ║
-            ║ 26 ║       ║    ║       ║ 26 ║       ║    ║       ║ 26 ║
+
+              ★         ◆        ★         ◆         ★
+             ╱ ╲       ╱ ╲       ╱ ╲       ╱ ╲       ╱ ╲
+            ║Fe ║     ║ ◈ ║     ║Fe ║     ║ ◈ ║     ║Fe ║
+            ║26 ║     ║   ║     ║26 ║     ║   ║     ║26 ║
             ╠═══╬═════╬═══╬═════╬═══╬═════╬═══╬═════╬═══╣
-            ║ ◆  ║   ◈  ║ ★ ║   ◈   ║ ◆ ║   ◈  ║ ★  ║  ◈   ║ ◆ ║
+            ║ ◆ ║  ◈ ║ ★ ║ ◈  ║ ◆ ║ ◈  ║ ★ ║ ◈  ║ ◆ ║
             ╠═══╩═════╩═══╩═════╩═══╩═════╩═══╩═════╩═══╣
-            ║                                                           ║
-            ║                ⚔⛨ DER EISERNE REICH ⛨⚔                 ║
-            ║                                                           ║
-            ║           Built to Endure, Destined to Reign              ║
-            ║                                                           ║
-            ║                        Est. 2025                          ║
-            ║                                                           ║
-            ║           Crowned in Code, Baptized in Fire               ║
-            ║                                                           ║
-            ║           Under His Majesty's Ancient Seal:               ║
-            ║                 52414B.DerEiserneReich                    ║
-            ║                                                           ║
-            ║                            ║                              ║
-            ║                            ║                              ║
-            ║                        ═══╬═══                          ║
-            ║                            ║                              ║
-            ║                            ║                              ║
-            ║                            ║                              ║
-            ║                                                            ║
+            ║                                            ║
+            ║         ⚔⛨ DER EISERNE REICH ⛨⚔          ║
+            ║                                            ║
+            ║      Built to Endure, Destined to Reign   ║
+            ║                                            ║
+            ║               Est. 2025                    ║
+            ║                                            ║
+            ║      Crowned in Code, Baptized in Fire    ║
+            ║                                            ║
+            ║    Under His Majesty's Ancient Seal:      ║
+            ║          52414B.DerEiserneReich            ║
+            ║                                            ║
+            ║                    ║                       ║
+            ║                    ║                       ║
+            ║                 ═══╬═══                    ║
+            ║                    ║                       ║
+            ║                    ║                       ║
+            ║                    ║                       ║
+            ║                                            ║
             ╚════════════════════════════════════════════╝
 
 
@@ -430,3 +431,4 @@ Version 1.0-DER (2025)
          Build: 52414B.DerEiserneReich
          Der Eiserne Reich © 2025
 ═══════════════════════════════════════════════════════════════════════
+
