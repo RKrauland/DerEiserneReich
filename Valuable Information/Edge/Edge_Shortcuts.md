@@ -8,155 +8,153 @@
 ## ⭐ Favorites & Collections
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + Shift + B** | Show / hide the Favorites bar |
-| **Alt + Shift + B** | Focus the first item in the Favorites bar |
-| **Ctrl + D** | Save current tab as a favorite |
-| **Ctrl + Shift + D** | Save all open tabs as favorites in a new folder |
-| **Ctrl + Shift + Y** | Open Collections panel |
-| **Ctrl + Shift + E** | Open search in sidebar |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> | Show / hide the Favorites bar |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> | Focus first item in Favorites bar |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd> | Save current tab as favorite |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd> | Save all open tabs as favorites in a new folder |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd> | Open Collections |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Open search in sidebar |
 
 ---
 
 ## 🔍 Navigation & Search
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Alt + D** / **Ctrl + L** | Select the URL in the address bar |
-| **Ctrl + E** / **Ctrl + K** | Start a search in the address bar |
-| **Alt + E** / **Alt + F** | Open the Settings & More (…) menu |
-| **Ctrl + Enter** | Add “www.” and “.com” to typed text |
-| **Alt + Left Arrow** | Go back |
-| **Alt + Right Arrow** | Go forward |
-| **Alt + Home** | Open homepage |
-| **Alt** | Focus the Settings & More button |
+| <kbd>Alt</kbd> + <kbd>D</kbd> / <kbd>Ctrl</kbd> + <kbd>L</kbd> | Select URL in the address bar |
+| <kbd>Ctrl</kbd> + <kbd>E</kbd> / <kbd>Ctrl</kbd> + <kbd>K</kbd> | Open search in the address bar |
+| <kbd>Alt</kbd> + <kbd>E</kbd> / <kbd>Alt</kbd> + <kbd>F</kbd> | Open “Settings and more” menu |
+| <kbd>Ctrl</kbd> + <kbd>Enter</kbd> | Add “www.” and “.com” to text in address bar |
+| <kbd>Alt</kbd> + <kbd>Left Arrow</kbd> | Go back |
+| <kbd>Alt</kbd> + <kbd>Right Arrow</kbd> | Go forward |
+| <kbd>Alt</kbd> + <kbd>Home</kbd> | Open home page |
+| <kbd>Alt</kbd> | Focus the “Settings and more” button |
 
 ---
 
 ## 📄 Tabs & Windows
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + T** | Open new tab |
-| **Ctrl + Shift + T** | Reopen last closed tab |
-| **Ctrl + N** | Open new window |
-| **Ctrl + Shift + N** | Open new *InPrivate* window |
-| **Ctrl + W** / **Ctrl + F4** | Close current tab |
-| **Ctrl + Shift + W** / **Alt + F4** | Close current window |
-| **Ctrl + Tab** / **Ctrl + PageDown** | Switch to next tab |
-| **Ctrl + Shift + Tab** / **Ctrl + PageUp** | Switch to previous tab |
-| **Ctrl + 1…8** | Switch to a specific tab position |
-| **Ctrl + 9** | Switch to the last tab |
-| **Ctrl + Shift + K** | Duplicate the current tab |
-| **Ctrl + M** | Mute / unmute current tab |
-| **Ctrl + Shift + M** | Sign in as another user or browse as Guest |
+| <kbd>Ctrl</kbd> + <kbd>T</kbd> | Open new tab |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> | Reopen last closed tab |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd> | Open new window |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Open new *InPrivate* window |
+| <kbd>Ctrl</kbd> + <kbd>W</kbd> / <kbd>Ctrl</kbd> + <kbd>F4</kbd> | Close current tab |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd> / <kbd>Alt</kbd> + <kbd>F4</kbd> | Close current window |
+| <kbd>Ctrl</kbd> + <kbd>Tab</kbd> / <kbd>Ctrl</kbd> + <kbd>PgDn</kbd> | Switch to next tab |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> / <kbd>Ctrl</kbd> + <kbd>PgUp</kbd> | Switch to previous tab |
+| <kbd>Ctrl</kbd> + <kbd>1–8</kbd> | Switch to specific tab |
+| <kbd>Ctrl</kbd> + <kbd>9</kbd> | Switch to last tab |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> | Duplicate current tab |
+| <kbd>Ctrl</kbd> + <kbd>M</kbd> | Mute / unmute current tab |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd> | Sign in as another user / Guest mode |
 
 ---
 
 ## 🔄 Page Actions
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + R** / **F5** | Reload current page |
-| **Ctrl + Shift + R** / **Shift + F5** | Reload ignoring cache |
-| **Esc** | Stop loading page or close popup |
-| **Ctrl + S** | Save current page |
-| **Ctrl + P** | Print current page |
-| **Ctrl + Shift + P** | Print using system dialog |
-| **Ctrl + U** | View page source |
-| **Ctrl + Shift + U** | Start or stop *Read Aloud* |
-| **Ctrl + O** | Open local file in Edge |
+| <kbd>Ctrl</kbd> + <kbd>R</kbd> / <kbd>F5</kbd> | Reload page |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> / <kbd>Shift</kbd> + <kbd>F5</kbd> | Reload ignoring cache |
+| <kbd>Esc</kbd> | Stop loading / close dialog |
+| <kbd>Ctrl</kbd> + <kbd>S</kbd> | Save current page |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd> | Print current page |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Print using system dialog |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> | View source |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> | Start / stop Read Aloud |
+| <kbd>Ctrl</kbd> + <kbd>O</kbd> | Open local file in Edge |
 
 ---
 
 ## 📜 Page Navigation
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Spacebar / PgDn** | Scroll down one screen |
-| **Shift + Spacebar / PgUp** | Scroll up one screen |
-| **Home** | Go to top of page |
-| **End** | Go to bottom of page |
-| **Tab / Shift + Tab** | Move forward / backward through page elements |
+| <kbd>Space</kbd> / <kbd>PgDn</kbd> | Scroll down |
+| <kbd>Shift</kbd> + <kbd>Space</kbd> / <kbd>PgUp</kbd> | Scroll up |
+| <kbd>Home</kbd> | Jump to top of page |
+| <kbd>End</kbd> | Jump to bottom of page |
+| <kbd>Tab</kbd> / <kbd>Shift</kbd> + <kbd>Tab</kbd> | Move focus forward / backward |
 
 ---
 
 ## 🔧 Tools & Developer Options
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + Shift + I / F12** | Open Developer Tools |
-| **Ctrl + Shift + J** | Focus on Console in DevTools |
-| **Ctrl + Shift + C** | Toggle element inspector |
-| **Ctrl + Shift + Delete** | Open Clear Browsing Data |
-| **Alt + Shift + I** | Send feedback |
-| **F1** | Open Help |
-| **F7** | Toggle Caret browsing |
-| **F9** | Enter or exit Immersive Reader |
-| **F11** | Toggle full-screen mode |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> / <kbd>F12</kbd> | Open Developer Tools |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd> | Focus Console in DevTools |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> | Toggle element inspector |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd> | Open “Clear browsing data” |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> | Send feedback |
+| <kbd>F1</kbd> | Open Help |
+| <kbd>F7</kbd> | Toggle Caret browsing |
+| <kbd>F9</kbd> | Enter / exit Immersive Reader |
+| <kbd>F11</kbd> | Full screen (toggle) |
 
 ---
 
 ## 📚 PDF Viewing
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + \\** | Toggle between *Fit to Page* and *Fit to Width* |
-| **Ctrl + [** | Rotate PDF counter-clockwise |
-| **Ctrl + ]** | Rotate PDF clockwise |
-| **Ctrl + Plus / Minus / 0** | Zoom in / out / reset |
-| **Ctrl + F** | Search within PDF |
+| <kbd>Ctrl</kbd> + <kbd>\\</kbd> | Fit to page / fit to width |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd> | Rotate PDF counter-clockwise |
+| <kbd>Ctrl</kbd> + <kbd>]</kbd> | Rotate PDF clockwise |
+| <kbd>Ctrl</kbd> + <kbd>+</kbd> / <kbd>-</kbd> / <kbd>0</kbd> | Zoom in / out / reset |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd> | Find text within PDF |
 
 ---
 
 ## 🧭 Panels & Sidebars
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + Shift + L** | Paste and search / go |
-| **Ctrl + Shift + C** | Open Collections sidebar |
-| **Ctrl + H** | Open History |
-| **Ctrl + J** | Open Downloads |
-| **Ctrl + Shift + O** | Open Favorites |
-| **Ctrl + Shift + Y** | Open Collections |
-| **Ctrl + Shift + B** | Toggle Favorites bar visibility |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> | Paste and search / go |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd> | Open History |
+| <kbd>Ctrl</kbd> + <kbd>J</kbd> | Open Downloads |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> | Open Favorites |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd> | Open Collections |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> | Toggle Favorites bar |
 
 ---
 
 ## 🧮 Zoom & Display
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Ctrl + Plus (+)** | Zoom in |
-| **Ctrl + Minus (-)** | Zoom out |
-| **Ctrl + 0 (zero)** | Reset zoom |
-| **F10 / Shift + F10** | Open context or toolbar menu |
-| **F6 / Shift + F6** | Move focus between panes |
-| **Ctrl + F6** | Focus web content pane |
+| <kbd>Ctrl</kbd> + <kbd>+</kbd> | Zoom in |
+| <kbd>Ctrl</kbd> + <kbd>-</kbd> | Zoom out |
+| <kbd>Ctrl</kbd> + <kbd>0</kbd> | Reset zoom |
+| <kbd>F10</kbd> / <kbd>Shift</kbd> + <kbd>F10</kbd> | Open context / toolbar menu |
+| <kbd>F6</kbd> / <kbd>Shift</kbd> + <kbd>F6</kbd> | Move focus between panes |
+| <kbd>Ctrl</kbd> + <kbd>F6</kbd> | Focus web content pane |
 
 ---
 
 ## 💻 Miscellaneous
 | ⌨️ Shortcut | Function |
 |-------------|-----------|
-| **Alt + Shift + T** | Focus first toolbar item |
-| **Alt + Shift + B** | Focus first item in Favorites bar |
-| **F10 + Enter** | Open Settings and more (…) menu |
-| **Ctrl + Shift + V** | Paste without formatting |
-| **Ctrl + Shift + N** | Open InPrivate window |
-| **Ctrl + Shift + E** | Search in sidebar |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> | Focus first toolbar item |
+| <kbd>F10</kbd> + <kbd>Enter</kbd> | Open Settings and more menu |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> | Paste without formatting |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Open new InPrivate window |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | Search in sidebar |
 
 ---
 
-### 🧠 Tip: Universal Web Shortcuts
-| Shortcut | Function |
-|-----------|-----------|
-| **Ctrl + A** | Select all text |
-| **Ctrl + C / X / V** | Copy / Cut / Paste |
-| **Ctrl + F** | Find on page |
-| **Ctrl + Z / Y** | Undo / Redo |
-| **Ctrl + Shift + Esc** | Open browser Task Manager |
-| **Ctrl + Shift + Q** | Quit browser (ask confirmation) |
+## 🧠 Universal Browser Shortcuts
+| ⌨️ Shortcut | Function |
+|-------------|-----------|
+| <kbd>Ctrl</kbd> + <kbd>A</kbd> | Select all |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>X</kbd> / <kbd>V</kbd> | Copy / Cut / Paste |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd> | Find on page |
+| <kbd>Ctrl</kbd> + <kbd>Z</kbd> / <kbd>Y</kbd> | Undo / Redo |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> | Open browser Task Manager |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> | Quit Edge (confirm prompt) |
 
 ---
 
-### 🧩 Mac Key Equivalents
+## 🧩 macOS Key Equivalents
 | Windows Key | macOS Equivalent |
 |--------------|------------------|
-| **Ctrl** | **⌘ (Command)** |
-| **Alt** | **⌥ (Option)** |
-| **Shift** | **⇧ (Shift)** |
+| <kbd>Ctrl</kbd> | ⌘ (Command) |
+| <kbd>Alt</kbd> | ⌥ (Option) |
+| <kbd>Shift</kbd> | ⇧ (Shift) |
 
 ---
 
